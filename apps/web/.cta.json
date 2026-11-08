@@ -1,0 +1,25 @@
+{
+  "bundler": "vite",
+  "projectName": "web",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "pnpm",
+  "includeExamples": true,
+  "tailwind": true,
+  "projectPreset": "default",
+  "routerOnly": false,
+  "addOnOptions": {},
+  "git": false,
+  "install": true,
+  "intent": true,
+  "version": 1,
+  "framework": "solid",
+  "chosenAddOns": [
+    "eslint",
+    "form",
+    "store",
+    "tanstack-query",
+    "tanchat",
+    "solid-ui"
+  ]
+}

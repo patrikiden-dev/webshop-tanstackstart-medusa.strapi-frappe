@@ -1,0 +1,11 @@
+node_modules
+.env
+.DS_Store
+dist
+.output
+
+# Frappe bench: version only your custom app
+apps/frappe/frappe-bench/*
+!apps/frappe/frappe-bench/apps/
+apps/frappe/frappe-bench/apps/*
+!apps/frappe/frappe-bench/apps/shop_rules/
